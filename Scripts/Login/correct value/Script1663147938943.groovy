@@ -21,7 +21,7 @@ WebUI.openBrowser('https://p2p.alamisharia.co.id/')
 
 WebUI.setText(findTestObject('Page_Login  ALAMI Peer-to-Peer Lending Syariah/input_Assalamualaikum_username'), 'heru.cygnus@gmail.com')
 
-WebUI.setText(findTestObject('Page_Login  ALAMI Peer-to-Peer Lending Syariah/input_Assalamualaikum_password'), 'J2p23v@3FB!hYL4')
+WebUI.setText(findTestObject('Page_Login  ALAMI Peer-to-Peer Lending Syariah/input_Assalamualaikum_password'), 'P@ssw0rd12ed')
 
 WebUI.click(findTestObject('Page_Login  ALAMI Peer-to-Peer Lending Syariah/button_Masuk Ke Akun Saya'))
 

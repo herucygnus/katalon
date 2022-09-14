@@ -25,7 +25,7 @@ WebUI.click(findTestObject('Page_ALAMI Daftar  ALAMI Peer-to-Peer Lending Syaria
 
 WebUI.setText(findTestObject('Page_Daftar Sebagai Pemberi Dana  ALAMI Peer-to-Peer Lending Syariah/input_Nama'), 'Heru Apriatama')
 
-WebUI.setText(findTestObject('Page_Daftar Sebagai Pemberi Dana  ALAMI Peer-to-Peer Lending Syariah/input_Email'), 'cygnus@gmail.com')
+WebUI.setText(findTestObject('Page_Daftar Sebagai Pemberi Dana  ALAMI Peer-to-Peer Lending Syariah/input_Email'), 'heru.cygnus@gmail.com')
 
 WebUI.setText(findTestObject('Page_Daftar Sebagai Pemberi Dana  ALAMI Peer-to-Peer Lending Syariah/input_No. Handphone_phone'), 
     '081288477287')

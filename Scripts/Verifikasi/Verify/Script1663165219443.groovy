@@ -23,7 +23,7 @@ WebUI.setText(findTestObject('Object Repository/Page_Login  ALAMI Peer-to-Peer L
     'heru.cygnus@gmail.com')
 
 WebUI.setEncryptedText(findTestObject('Object Repository/Page_Login  ALAMI Peer-to-Peer Lending Syariah/input_Assalamualaikum_password'), 
-    'ajnBIEOt+0Oc4x6a1ru27A==')
+    'iFGeFYmXIrUOh4XQprYuAg==')
 
 WebUI.click(findTestObject('Object Repository/Page_Login  ALAMI Peer-to-Peer Lending Syariah/a_Masuk Ke Akun Saya'))
 
